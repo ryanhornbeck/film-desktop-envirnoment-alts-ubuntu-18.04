@@ -42,3 +42,13 @@ $ ./desk_alt.sh
 ```
 
 Installation takes approximate 30 minutes.
+
+<img src="https://image.ibb.co/bOnHvV/arc-theme-for-ubuntu-linux-orig.jpg" alt="arc-theme-for-ubuntu-linux-orig" border="0">
+<img src="https://image.ibb.co/mQQgNA/beautify-your-kde-plasma-5-desktop-environment-with-freshly-ported-adapta-theme-517792-2.jpg" alt="beautify-your-kde-plasma-5-desktop-environment-with-freshly-ported-adapta-theme-517792-2" border="0">
+<img src="https://image.ibb.co/n5mo2A/budgie-desktop-on-ubuntu-with-raven-sidebar.jpg" alt="budgie-desktop-on-ubuntu-with-raven-sidebar" border="0">
+<img src="https://image.ibb.co/knempq/cinnamon.jpg" alt="cinnamon" border="0">
+<img src="https://image.ibb.co/f2vRpq/elementary.jpg" alt="elementary" border="0">
+<img src="https://image.ibb.co/m1Z82A/Enlightenment-19-in-Ubuntu-14-04-13.png" alt="Enlightenment-19-in-Ubuntu-14-04-13" border="0">
+<img src="https://image.ibb.co/bJE82A/GNOME-Flashback-on-Bionic-Beaver.png" alt="GNOME-Flashback-on-Bionic-Beaver" border="0">
+<img src="https://image.ibb.co/eB4VFV/mate-desktop-2016.jpg" alt="mate-desktop-2016" border="0">
+<img src="https://image.ibb.co/essjaV/xfce2-5806ec9f3df78cbc28aa61d0.png" alt="xfce2-5806ec9f3df78cbc28aa61d0" border="0">
