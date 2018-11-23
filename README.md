@@ -1,6 +1,6 @@
 # Chromata Film-Ready Desktop Environments
 
-Chromata is a collection of Open Source alternative desktop environments in support of filmmaking.  Chromata is written to leverage Ubuntu 18.04 LTS, and provides the following alternative desktop environments:
+Chromata is a collection of Open Source alternative desktop environments in support of filmmaking.  Chromata provides a single virtual machine supporting multiple desktops in a single, mobile, customizable deployment. Chromata is written to leverage Ubuntu 18.04 LTS, and provides the following alternative desktop environments:
 
   - Elementary
   - Gnome Flashback
